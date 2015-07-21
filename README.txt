@@ -1,0 +1,30 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Got a story tip?
+
+jm@porup.com or toholdaquill@riseup.net
+
+PGP fingerprint: 1442 C867 3E9D 14A1 58FC 2266 6AC3 56C1 D73A 6884
+
+OTR fingerprint (toholdaquill@riseup.net):
+
+D443896D 98442167 BE801B5F 905B5F62 341ABA24
+
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v2
+
+iQIcBAEBCAAGBQJVrs0KAAoJEGrDVsHXOmiEsNsQAJ9rX1Y3p5A9vdE7IBekMYCi
+aJ++RssFRz0oAqF0J0hDw+k/tQ0JtXWCW4f250b483KNENQ4Nlew43fraHcDgD6V
+rCl8oRomPd0P2AoHa0R2edKFSX3ecwBISpxq8yApEQZt0Zdw03ExeNbyExLHs2I5
+bh33Dqrja11LAah2jR3e9co392z4zh8PBasCeFZOnXHwgq8Ycmlxdf3plgdTKbz8
+FLmibV7apUGw/EGkCqD4lNi2jHLUthGogmYZLjK9I0HW4Rhkr8XDjBXzjaOb6Bs1
+IX4/0ZoRYDfQlDRZlrJAJyepw4YkSAfES22zFP/jJXr6EZ1lR02f2ljWDiKCP985
+tHSlEvMfhxaucwc3UyckEKhI8MaQAc+m19NxGZ1Qizc1yNmGdV6H90+vaRN94x0X
+humGoVBL5Cgwh/PqccNVeCjO+hnDJUtE+RcARQlLWWr195hN4YdHvgsyhJgD3/j6
+AjzLdkBf1vEvoIaPAVTb/JR2yxT8/apy8w5CSKlh1S53tVHIBfW30h6/jaEq3fEn
+7panIsmHO8mU1n0Kxvqj0QVcDJ2d4QyIKNR7y55RbWkejeMIwRiQXBIUz/tFKy7V
+gQ6fz1dejiag6ZERjy7D/cVokax/dWWifc0YR/+yBvzzgdJE68CoEtcbxGFTRtPw
+IZqmlZhGFbynJlwGKdxq
+=rh6r
+-----END PGP SIGNATURE-----
