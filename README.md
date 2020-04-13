@@ -42,24 +42,25 @@ If you are worried that the NSA / FBI / CSE / CSIS / RCMP / GCHQ / etc are going
 
 5. Download and install [Tor Browser](https://www.torproject.org). Tor is a free, secure way to cover your tracks.
 
-5. Email me. You could create a throwaway, single-use ProtonMail account and email me at toholdaquill@protonmail.com, or at jm@porup.com. 
+5. Email me. You could create a throwaway, single-use ProtonMail account and email me at `toholdaquill@protonmail.com`, or at `jm@porup.com`. 
 
 6. ADVANCED USERS ONLY: Use PGP. You'll find my keys on the keyservers, fingerprint [here](https://github.com/toholdaquill/contact).
+
+PGP fingerprint:
+
+    `7E53 D94D B6B3 E293 9F42  DA9B 759F 1599 B79A 74FB`
+
+Note: Email sometimes goes missing. If you emailed me but didn't hear back, and it's important, try a different channel.
 
 7. ADVANCED USERS ONLY: Use jabber. Easier to use and arguably more secure than pgp, I like agl's [xmpp-client](https://www.github.com/agl/xmpp-client). Create an account that supports a Tor onion server. Note: we both have to be online for us to connect on jabber. I live in New York and am usually on jabber for most, but not all, of the work day. 
 
 My jabber address (not an email address) is `toholdaquill@riseup.net`. Published [fingerprint](https://github.com/toholdaquill/contact).
 
-
-## the technical details
-
-
-jabber/otr: toholdaquill@riseup.net
-
 OTR fingerprint:
 
-    0d300ae4 24f754cc 2f667658 c5739cfd 722a7fdb
+    `0d300ae4 24f754cc 2f667658 c5739cfd 722a7fdb`
 
+8. ADVANCED USERS ONLY: Download and install Tails, the anonymity-optimized Debian-based operating systems that routes all traffic over Tor. Use a wifi network that you've never used before and will never use again, for instance a coffeeshop wifi. 
 
 
 OnionShare:
@@ -67,20 +68,3 @@ OnionShare:
     Got docs you want to share anonymously? Ping me from a burner email account, or channel of your preference, and I'll give you the address.
 
 
-Ricochet:
-
-    ricochet:3uyoosi7s76d5vab
-
-    Note: ricochet is unmaintained software, and may not be secure. Unless you have a specific reason why you want to communicate with me via ricochet, I encourage you not to use it.
-
-
-Email:
-
-    jm@porup.com
-
-PGP fingerprint:
-
-    7E53 D94D B6B3 E293 9F42  DA9B 759F 1599 B79A 74FB
-
-
-Note: Email sometimes goes missing. If you emailed me but didn't hear back, and it's important, try a different channel.
