@@ -25,9 +25,9 @@ Download Signal here: `https://www.whispersystems.org/`
 
 Do not use Telegram for anything sensitive.
 
-WhatsApp offers a similar service to Signal, but Facebook, WhatsApp's parent company, tracks all WhatsApp metadata--including who you contact, how often, for how long, and type of contact, e.g. text, voice call, video call, etc. I do not recommend you contact me via WhatsApp unless you have a very specific reason for doing so.
+WhatsApp offers a similar service to Signal, but Facebook, WhatsApp's parent company, tracks all WhatsApp metadata--including who you contact, how often, for how long, and type of contact, e.g. text, voice call, video call, etc. I do not recommend you contact me via WhatsApp unless you have a very specific reason for doing so. You can reach me at the number above.
 
-Wire offers a similar service to Signal, but permits registration using an email address, and not a phone number. I recommend Signal, but you may contact me on Wire at @toholdaquill if Wire is your preference.
+Wire offers a similar service to Signal, but permits registration using an email address, and not a phone number. I recommend Signal, but you may contact me on Wire at `@toholdaquill` if Wire is your preference.
 
 ### When should you *not* use Signal, Wire, or WhatsApp?
 
@@ -37,7 +37,7 @@ If you are worried that the NSA / FBI / CSE / CSIS / RCMP / GCHQ / etc are going
 
 ### for national security whistleblowers
 
-1. The first rule of leaking is to never use a work laptop to reach out to a journalist. Take home data on a thumb drive or print it out. Taking pictures of documents on a screen is also a good strategy.
+1. The first rule of leaking is to never use a work laptop to reach out to a journalist. Take home data on a thumb drive or print it out. Taking pictures of documents on a screen is also a good strategy. Be aware of existing anti-leaking measures your employer may have in place, and look for technical loopholes.
 
 3. Use a personal laptop to contact me. If you're extra cautious, purchase a cheap burner laptop in cash somewhere not too close to home or work. 
 
@@ -49,13 +49,13 @@ If you are worried that the NSA / FBI / CSE / CSIS / RCMP / GCHQ / etc are going
 
 6. ADVANCED USERS ONLY: Use PGP. You'll find my keys on the keyservers.
 
-PGP fingerprint:
+    PGP fingerprint:
 
     7E53 D94D B6B3 E293 9F42  DA9B 759F 1599 B79A 74FB
 
-Note: Email sometimes goes missing. If you emailed me but didn't hear back, and it's important, try a different channel.
+    Note: Email sometimes goes missing. If you emailed me but didn't hear back, and it's important, try a different channel.
 
-7. ADVANCED USERS ONLY: Use jabber. Easier to use and arguably more secure than pgp, I like agl's xmpp-client (`https://www.github.com/agl/xmpp-client`). Create an account that supports a Tor onion server. Note: we both have to be online for us to connect on jabber. I live in New York and am usually on jabber for most, but not all, of the work day. 
+7. ADVANCED USERS ONLY: Use jabber. Easier to use and arguably more secure than pgp, I like agl's xmpp-client (`https://www.github.com/agl/xmpp-client`). Create an account that supports a Tor onion server. Note: we both have to be online for us to connect on jabber. I live in New York and am usually on jabber for most, but not all, of the work day, Eastern Time.
 
 My jabber address (not an email address) is `toholdaquill@riseup.net`.
 
