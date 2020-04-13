@@ -59,12 +59,12 @@ If you are worried that the NSA / FBI / CSE / CSIS / RCMP / GCHQ / etc are going
 
 8. ADVANCED USERS ONLY: Use jabber. Easier to use and arguably more secure than pgp, I like agl's xmpp-client (`https://www.github.com/agl/xmpp-client`). Create an account that supports a Tor onion server. Note: we both have to be online for us to connect on jabber. I live in New York and am usually on jabber for most, but not all, of the work day, Eastern Time.
 
-My jabber address (not an email address) is `toholdaquill@riseup.net`.
+    My jabber address (not an email address) is `toholdaquill@riseup.net`.
 
-OTR fingerprint:
+    OTR fingerprint:
 
     0d300ae4 24f754cc 2f667658 c5739cfd 722a7fdb
 
 9. ADVANCED USERS ONLY: Download and install Tails, the anonymity-optimized Debian-based operating system that routes all traffic over Tor. Be sure to download and use Tail only over wifi networks that you've never used before and will never use again, for instance a coffeeshop wifi. 
 
-You'll find Tails here: `https://tails.boum.org/`
+    You'll find Tails here: `https://tails.boum.org/`
