@@ -6,11 +6,9 @@ Got a story tip? I'm listening...
 
 ## the basics
 
-email: jm@porup.com
-
-mobile: +1 647 269 0074
-
-twitter: [https://www.twitter.com/toholdaquill](@toholdaquill)
+    email: jm@porup.com
+    mobile: +1 647 269 0074
+    twitter: [https://www.twitter.com/toholdaquill](@toholdaquill)
 
 ## How to leak to me (and not get caught)
 
