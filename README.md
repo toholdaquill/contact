@@ -19,7 +19,7 @@ How to leak to me (and not get caught)
 
 Signal is free and offers encrypted text messaging, audio calls, and video calls. For the vast majority of cases, Signal is the best, most secure, way to reach me.
 
-Download Signal here: `https://www.whispersystems.org/`
+Download Signal here: `https://www.signal.org/download`
 
 ### What about Wire / Wickr / WhatsApp / Telegram / etc?
 
@@ -31,11 +31,11 @@ Do not use Telegram for anything sensitive.
 
 ### When should you *not* use Signal, Wire, or WhatsApp?
 
-If Five Eyes is in your threat model, then no. (If Five Eyes is not in your threat model, or you have no idea what I'm talking about, then just use Signal--you'll be fine.)
+If Five Eyes are in your threat model, then no. (If Five Eyes are not in your threat model, or you have no idea what I'm talking about, then just use Signal--you'll be fine.)
 
 If you are worried that the NSA / FBI / CSE / CSIS / RCMP / GCHQ / etc are going to trace your metadata trail to me, then keep reading.
 
-### for national security whistleblowers
+### For national security whistleblowers
 
 1. The first rule of leaking is to never use a work laptop to reach out to a journalist. Take home data on a thumb drive or print it out. Taking pictures of documents on a screen is also a good strategy. Be aware of existing anti-leaking measures your employer may have in place, and look for technical loopholes.
 
@@ -45,7 +45,7 @@ If you are worried that the NSA / FBI / CSE / CSIS / RCMP / GCHQ / etc are going
 
 5. Download and install Tor Browser (`https://www.torproject.org`). Tor is a free, secure way to cover your tracks.
 
-5. Email me. You could create a throwaway, single-use ProtonMail account and email me at `toholdaquill@protonmail.com`, or at `jm@porup.com`. 
+5. Email me. You could create a throwaway, single-use ProtonMail account and email me at `toholdaquill@protonmail.com`, or at `jm@porup.com`. I assume my email is monitored. You should too.
 
 6. OnionShare. Got docs you want to share anonymously? Ping me from a burner email account, or channel of your preference, and I'll give you the address. I'll need to spin up an OnionShare server on my laptop. Navigating to that .onion address in Tor Browser will let you upload files directly to a virtual machine on my computer.
 
@@ -65,6 +65,6 @@ OTR fingerprint:
 
     0d300ae4 24f754cc 2f667658 c5739cfd 722a7fdb
 
-9. ADVANCED USERS ONLY: Download and install Tails, the anonymity-optimized Debian-based operating systems that routes all traffic over Tor. Use a wifi network that you've never used before and will never use again, for instance a coffeeshop wifi. 
+9. ADVANCED USERS ONLY: Download and install Tails, the anonymity-optimized Debian-based operating system that routes all traffic over Tor. Be sure to download and use Tail only over wifi networks that you've never used before and will never use again, for instance a coffeeshop wifi. 
 
 You'll find Tails here: `https://tails.boum.org/`
