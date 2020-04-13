@@ -53,7 +53,7 @@ If you are worried that the NSA / FBI / CSE / CSIS / RCMP / GCHQ / etc are going
 
     PGP fingerprint:
 
-    7E53 D94D B6B3 E293 9F42  DA9B 759F 1599 B79A 74FB
+    `7E53 D94D B6B3 E293 9F42  DA9B 759F 1599 B79A 74FB`
 
     Note: Email sometimes goes missing. If you emailed me but didn't hear back, and it's important, try a different channel.
 
@@ -63,7 +63,7 @@ If you are worried that the NSA / FBI / CSE / CSIS / RCMP / GCHQ / etc are going
 
     OTR fingerprint:
 
-    0d300ae4 24f754cc 2f667658 c5739cfd 722a7fdb
+    `0d300ae4 24f754cc 2f667658 c5739cfd 722a7fdb`
 
 9. ADVANCED USERS ONLY: Download and install Tails, the anonymity-optimized Debian-based operating system that routes all traffic over Tor. Be sure to download and use Tail only over wifi networks that you've never used before and will never use again, for instance a coffeeshop wifi. 
 
