@@ -16,7 +16,7 @@ Got a story tip? I'm listening...
 
 Signal is free and offers encrypted text messaging, audio calls, and video calls. For the vast majority of cases, Signal is the best, most secure, way to reach me.
 
-You can download it here: [https://www.whispersystems.org/](https://www.whispersystems.org)
+Download Signal here: `https://www.whispersystems.org/`
 
 ### What about Wire / Wickr / WhatsApp / Telegram / etc?
 
@@ -40,27 +40,29 @@ If you are worried that the NSA / FBI / CSE / CSIS / RCMP / GCHQ / etc are going
 
 4. Don't use your home wifi. Go to a coffeeshop you don't usually visit, or sit in your car outside of a public wifi spot you have access to. Do this a good distance from home, outside your usual pattern of life.
 
-5. Download and install [Tor Browser](https://www.torproject.org). Tor is a free, secure way to cover your tracks.
+5. Download and install Tor Browser (`https://www.torproject.org`). Tor is a free, secure way to cover your tracks.
 
 5. Email me. You could create a throwaway, single-use ProtonMail account and email me at `toholdaquill@protonmail.com`, or at `jm@porup.com`. 
 
-6. ADVANCED USERS ONLY: Use PGP. You'll find my keys on the keyservers, fingerprint [here](https://github.com/toholdaquill/contact).
+6. ADVANCED USERS ONLY: Use PGP. You'll find my keys on the keyservers.
 
 PGP fingerprint:
 
-    `7E53 D94D B6B3 E293 9F42  DA9B 759F 1599 B79A 74FB`
+    7E53 D94D B6B3 E293 9F42  DA9B 759F 1599 B79A 74FB
 
 Note: Email sometimes goes missing. If you emailed me but didn't hear back, and it's important, try a different channel.
 
-7. ADVANCED USERS ONLY: Use jabber. Easier to use and arguably more secure than pgp, I like agl's [xmpp-client](https://www.github.com/agl/xmpp-client). Create an account that supports a Tor onion server. Note: we both have to be online for us to connect on jabber. I live in New York and am usually on jabber for most, but not all, of the work day. 
+7. ADVANCED USERS ONLY: Use jabber. Easier to use and arguably more secure than pgp, I like agl's xmpp-client (`https://www.github.com/agl/xmpp-client`). Create an account that supports a Tor onion server. Note: we both have to be online for us to connect on jabber. I live in New York and am usually on jabber for most, but not all, of the work day. 
 
-My jabber address (not an email address) is `toholdaquill@riseup.net`. Published [fingerprint](https://github.com/toholdaquill/contact).
+My jabber address (not an email address) is `toholdaquill@riseup.net`.
 
 OTR fingerprint:
 
-    `0d300ae4 24f754cc 2f667658 c5739cfd 722a7fdb`
+    0d300ae4 24f754cc 2f667658 c5739cfd 722a7fdb
 
 8. ADVANCED USERS ONLY: Download and install Tails, the anonymity-optimized Debian-based operating systems that routes all traffic over Tor. Use a wifi network that you've never used before and will never use again, for instance a coffeeshop wifi. 
+
+You'll find Tails here: `https://tails.boum.org/`
 
 
 OnionShare:
