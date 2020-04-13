@@ -39,13 +39,13 @@ If you are worried that the NSA / FBI / CSE / CSIS / RCMP / GCHQ / etc are going
 
 1. The first rule of leaking is to never use a work laptop to reach out to a journalist. Take home data on a thumb drive or print it out. Taking pictures of documents on a screen is also a good strategy. Be aware of existing anti-leaking measures your employer may have in place, and look for technical loopholes.
 
-3. Use a personal laptop to contact me. If you're extra cautious, purchase a cheap burner laptop in cash somewhere not too close to home or work. 
+2. Use a personal laptop to contact me. If you're extra cautious, purchase a cheap burner laptop in cash somewhere not too close to home or work. 
 
-4. Don't use your home wifi. Go to a coffeeshop you don't usually visit, or sit in your car outside of a public wifi spot you have access to. Do this a good distance from home, outside your usual pattern of life.
+3. Don't use your home wifi. Go to a coffeeshop you don't usually visit, or sit in your car outside of a public wifi spot you have access to. Do this a good distance from home, outside your usual pattern of life.
 
-5. Download and install Tor Browser (`https://www.torproject.org`). Tor is a free, secure way to cover your tracks.
+4. Download and install Tor Browser (`https://www.torproject.org`). Tor is a free, secure way to cover your tracks.
 
-5. Email me. You could create a throwaway, single-use ProtonMail account and email me at `toholdaquill@protonmail.com`, or at `jm@porup.com`. I assume my email is monitored. You should too.
+5. Email me. You could create a single-use ProtonMail account and email me at `toholdaquill@protonmail.com`, or at `jm@porup.com`. I assume my email is monitored. You should too.
 
 6. OnionShare. Got docs you want to share anonymously? Ping me from a burner email account, or channel of your preference, and I'll give you the address. I'll need to spin up an OnionShare server on my laptop. Navigating to that .onion address in Tor Browser will let you upload files directly to a virtual machine on my computer.
 
