@@ -8,7 +8,7 @@ Got a story tip? I'm listening...
 
     email: jm@porup.com
     mobile: +1 647 269 0074
-    twitter: [\@toholdaquill](https://www.twitter.com/toholdaquill)
+    twitter: @toholdaquill
 
 ## How to leak to me (and not get caught)
 
@@ -20,19 +20,19 @@ You can download it here: [https://www.whispersystems.org/](https://www.whispers
 
 ### What about Wire / Wickr / WhatsApp / Telegram / etc?
 
-Telegram should not be used for anything sensitive.
+Do not use Telegram for anything sensitive.
 
-WhatsApp offers a similar service to Signal, but Facebook, WhatsApp's owner, tracks who everyone talks to. I do not recommend you contact me via WhatsApp unless you have a very specific reason for doing so.
+WhatsApp offers a similar service to Signal, but Facebook, WhatsApp's parent company, tracks all WhatsApp metadata--including who you contact, how often, for how long, and type of contact, e.g. text, voice call, video call, etc. I do not recommend you contact me via WhatsApp unless you have a very specific reason for doing so.
 
-If you're fond of Wire you can find me there as @toholdaquill, but I prefer Signal.
+Wire offers a similar service to Signal, but permits registration using an email address, and not a phone number. I recommend Signal, but you may contact me on Wire at @toholdaquill if Wire is your preference.
 
-### When should you *not* use Signal?
+### When should you *not* use Signal, Wire, or WhatsApp?
 
 If Five Eyes is in your threat model, then no. (If Five Eyes is not in your threat model, or you have no idea what I'm talking about, then just use Signal--you'll be fine.)
 
-If you are worried that the NSA / FBI / CSE / CSIS / RCMP / GCHQ / etc are going to trace your metadata trail to me, then we move to step 2.
+If you are worried that the NSA / FBI / CSE / CSIS / RCMP / GCHQ / etc are going to trace your metadata trail to me, then keep reading.
 
-### How to leak to me without getting caught
+### for national security whistleblowers
 
 1. The first rule of leaking is to never use a work laptop to reach out to a journalist. Take home data on a thumb drive or print it out. Taking pictures of documents on a screen is also a good strategy.
 
@@ -48,7 +48,7 @@ If you are worried that the NSA / FBI / CSE / CSIS / RCMP / GCHQ / etc are going
 
 7. ADVANCED USERS ONLY: Use jabber. Easier to use and arguably more secure than pgp, I like agl's [xmpp-client](https://www.github.com/agl/xmpp-client). Create an account that supports a Tor onion server. Note: we both have to be online for us to connect on jabber. I live in New York and am usually on jabber for most, but not all, of the work day. 
 
-My jabber address (not an email address) is toholdaquill@riseup.net. Published [fingerprint](https://github.com/toholdaquill/contact).
+My jabber address (not an email address) is `toholdaquill@riseup.net`. Published [fingerprint](https://github.com/toholdaquill/contact).
 
 
 ## the technical details
