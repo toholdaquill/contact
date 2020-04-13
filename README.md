@@ -1,16 +1,19 @@
-# Contact J.M. Porup
+Contact J.M. Porup
+==================
 
 I am a cybersecurity && national security reporter based in New York.
 
 Got a story tip? I'm listening...
 
-## the basics
+the basics
+----------
 
     email: jm@porup.com
     mobile: +1 647 269 0074
     twitter: @toholdaquill
 
-## How to leak to me (and not get caught)
+How to leak to me (and not get caught)
+--------------------------------------
 
 ### Text me on Signal: +1 647 269 0074
 
